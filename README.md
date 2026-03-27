@@ -1,4 +1,4 @@
-# NLP-
+# food-hazard-detection
 Food Hazard Detection (SemEval-2025) – Two-stage NLP pipeline using TF-IDF and LinearSVC.
 
 # Food Hazard Detection (SemEval-2025 Task 9)
@@ -26,3 +26,8 @@ We implemented a two-stage classification pipeline:
 ## Results
 
 - Public leaderboard score: ~0.66
+
+## Project Structure
+
+- pipeline.py → main training and prediction pipeline
+- requirements.txt → dependencies
